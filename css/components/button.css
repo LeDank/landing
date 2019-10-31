@@ -1,0 +1,13 @@
+.btn-yours {
+background: linear-gradient(#6eadd1, #5292b7);
+color: white;
+font-weight: bold;
+padding: 10px 24px;
+border-radius: 10px;
+display: inline-block;
+}
+
+.btn-yours:hover {
+background-color: white;
+color: #33759b;
+}

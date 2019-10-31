@@ -1,0 +1,18 @@
+.banner{
+  filter: opacity(80%);
+  background-image: url("../../images/jim.jpg");
+  opacity: 0,5;
+  padding: 240px 0;
+  background-size: cover;
+  display: block;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
